@@ -5,7 +5,7 @@ Projeto apresentado para obtenção do título de especialista em ciência de da
 
 Aluno: Breno Marques Barreto
 
-Titulo do Trabalho: Preditores de morte por COVID-19 no Brasil
+Titulo do Trabalho: Preditores de óbitos por COVID-19: O aprendizado de máquina como instrumento auxiliar na definição de políticas públicas
 
 Os arquivos referentes às bases de dados devem ser baixados dos endereços abaixo pois ultrapassam o limite permitido pelo GitHub.
 
