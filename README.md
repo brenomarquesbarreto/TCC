@@ -17,5 +17,8 @@ https://dados.gov.br/dataset/bd-srag-2020
 
 https://dados.gov.br/dataset/geoses
 
+Arquivos com os dados preprocessados estão em:
+https://drive.google.com/drive/folders/1PnBIRvkf9nn_R5rniPXQBXaf47DwNVUc?usp=sharing
+
 
 
