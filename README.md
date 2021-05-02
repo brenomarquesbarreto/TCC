@@ -5,5 +5,5 @@ Projeto apresentado para obtenção do título de especialista em ciência de da
 
 Aluno: Breno Marques Barreto
 
-T[itulo do Trabalho: Preditores de morte por COVID-19 no Brasil
+Titulo do Trabalho: Preditores de morte por COVID-19 no Brasil
 
