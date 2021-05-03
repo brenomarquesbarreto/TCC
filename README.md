@@ -1,5 +1,5 @@
 # TCC
-Trabalho de Conclusão de Curso da Pós Graduação em Ciência de Dados - PUC MG
+Trabalho de Conclusão de Curso da Pós Graduação em Ciência de Dados - PUC MINAS
 
 Projeto apresentado para obtenção do título de especialista em ciência de dados
 
@@ -19,6 +19,8 @@ https://dados.gov.br/dataset/geoses
 
 Arquivos com os dados pré-processados (intermediários no processo de construção dos modelos) estão em:
 https://drive.google.com/drive/folders/1PnBIRvkf9nn_R5rniPXQBXaf47DwNVUc?usp=sharing
+
+No github foram adicionados os arquivos pré-processados em versão compactada para atender ao limite de tamanho imposto. 
 
 
 
